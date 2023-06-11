@@ -1,0 +1,9 @@
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\obj\Release\netcoreapp3.1\Hunty.Chat.Transverse.GeneratedMSBuildEditorConfig.editorconfig
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\obj\Release\netcoreapp3.1\Hunty.Chat.Transverse.AssemblyInfoInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\obj\Release\netcoreapp3.1\Hunty.Chat.Transverse.AssemblyInfo.cs
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\bin\Release\netcoreapp3.1\Hunty.Chat.Transverse.deps.json
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\bin\Release\netcoreapp3.1\Hunty.Chat.Transverse.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\bin\Release\netcoreapp3.1\Hunty.Chat.Transverse.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\obj\Release\netcoreapp3.1\Hunty.Chat.Transverse.csproj.CoreCompileInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\obj\Release\netcoreapp3.1\Hunty.Chat.Transverse.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Transverse\Hunty.Chat.Transverse\obj\Release\netcoreapp3.1\Hunty.Chat.Transverse.pdb

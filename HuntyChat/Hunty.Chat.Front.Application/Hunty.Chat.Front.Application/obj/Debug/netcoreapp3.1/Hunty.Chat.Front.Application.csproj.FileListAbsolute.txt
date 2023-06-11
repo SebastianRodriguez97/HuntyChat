@@ -1,0 +1,13 @@
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\bin\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.deps.json
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\bin\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\bin\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\bin\Debug\netcoreapp3.1\Hunty.Chat.Transverse.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\bin\Debug\netcoreapp3.1\Hunty.Chat.Transverse.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.csproj.AssemblyReference.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.AssemblyInfoInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.AssemblyInfo.cs
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.csproj.CoreCompileInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.csproj.CopyComplete
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\obj\Debug\netcoreapp3.1\Hunty.Chat.Front.Application.pdb

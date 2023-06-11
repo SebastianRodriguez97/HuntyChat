@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Back", "Hunty.Chat.Back", "{64754EFA-2790-4D20-96AB-0BA0A76412A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Front", "Hunty.Chat.Front", "{AE81E3A2-F109-491F-8A8B-88132E0FF3AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Back.API", "Hunty.Chat.Back.API", "{1E597918-AF2D-4EE1-9CF9-853A5D7665FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Back.DataBase", "Hunty.Chat.Back.DataBase", "{0BFA391C-E540-4C42-8BC5-54304E532F8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Back.Application", "Hunty.Chat.Back.Application", "{FE73AF0F-6859-42DB-B645-6D1677C90BC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Transverse", "Hunty.Chat.Transverse", "{996F3BAE-304A-4660-BD96-870E040199DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Front.WebSite", "Hunty.Chat.Front.WebSite", "{29DDBF6A-5645-4074-9BB4-7190D01FA49D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hunty.Chat.Front.Application", "Hunty.Chat.Front.Application", "{D06CD851-3054-40AD-B863-D151F23DBA5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunty.Chat.Back.API", "Hunty.Chat.Back.API\Hunty.Chat.Back.API\Hunty.Chat.Back.API.csproj", "{81FA98A1-37CC-4399-9885-EBF804AEBF88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunty.Chat.Back.Application", "Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application.csproj", "{E043E7A4-4372-4F11-B08A-FA654E2DF62C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunty.Chat.Front.Application", "Hunty.Chat.Front.Application\Hunty.Chat.Front.Application\Hunty.Chat.Front.Application.csproj", "{286D441C-96A4-4314-B789-01B837E26BA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunty.Chat.Front.WebSite", "Hunty.Chat.Front.WebSite\Hunty.Chat.Front.WebSite\Hunty.Chat.Front.WebSite.csproj", "{0F3846A9-0EAD-4B2E-80B9-DEE0F5427553}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunty.Chat.Transverse", "Hunty.Chat.Transverse\Hunty.Chat.Transverse\Hunty.Chat.Transverse.csproj", "{56505389-710C-4479-9BD0-6C542FECB74C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunty.Chat.Back.Database", "Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database.csproj", "{3CEB23CB-0718-4E18-9F71-0CFDBB003200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FA98A1-37CC-4399-9885-EBF804AEBF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FA98A1-37CC-4399-9885-EBF804AEBF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FA98A1-37CC-4399-9885-EBF804AEBF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FA98A1-37CC-4399-9885-EBF804AEBF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E043E7A4-4372-4F11-B08A-FA654E2DF62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E043E7A4-4372-4F11-B08A-FA654E2DF62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E043E7A4-4372-4F11-B08A-FA654E2DF62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E043E7A4-4372-4F11-B08A-FA654E2DF62C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286D441C-96A4-4314-B789-01B837E26BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286D441C-96A4-4314-B789-01B837E26BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286D441C-96A4-4314-B789-01B837E26BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286D441C-96A4-4314-B789-01B837E26BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3846A9-0EAD-4B2E-80B9-DEE0F5427553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3846A9-0EAD-4B2E-80B9-DEE0F5427553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3846A9-0EAD-4B2E-80B9-DEE0F5427553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3846A9-0EAD-4B2E-80B9-DEE0F5427553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56505389-710C-4479-9BD0-6C542FECB74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56505389-710C-4479-9BD0-6C542FECB74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56505389-710C-4479-9BD0-6C542FECB74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56505389-710C-4479-9BD0-6C542FECB74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEB23CB-0718-4E18-9F71-0CFDBB003200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEB23CB-0718-4E18-9F71-0CFDBB003200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEB23CB-0718-4E18-9F71-0CFDBB003200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEB23CB-0718-4E18-9F71-0CFDBB003200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E597918-AF2D-4EE1-9CF9-853A5D7665FC} = {64754EFA-2790-4D20-96AB-0BA0A76412A0}
+		{0BFA391C-E540-4C42-8BC5-54304E532F8C} = {64754EFA-2790-4D20-96AB-0BA0A76412A0}
+		{FE73AF0F-6859-42DB-B645-6D1677C90BC5} = {64754EFA-2790-4D20-96AB-0BA0A76412A0}
+		{29DDBF6A-5645-4074-9BB4-7190D01FA49D} = {AE81E3A2-F109-491F-8A8B-88132E0FF3AB}
+		{D06CD851-3054-40AD-B863-D151F23DBA5D} = {AE81E3A2-F109-491F-8A8B-88132E0FF3AB}
+		{81FA98A1-37CC-4399-9885-EBF804AEBF88} = {1E597918-AF2D-4EE1-9CF9-853A5D7665FC}
+		{E043E7A4-4372-4F11-B08A-FA654E2DF62C} = {FE73AF0F-6859-42DB-B645-6D1677C90BC5}
+		{286D441C-96A4-4314-B789-01B837E26BA2} = {D06CD851-3054-40AD-B863-D151F23DBA5D}
+		{0F3846A9-0EAD-4B2E-80B9-DEE0F5427553} = {29DDBF6A-5645-4074-9BB4-7190D01FA49D}
+		{56505389-710C-4479-9BD0-6C542FECB74C} = {996F3BAE-304A-4660-BD96-870E040199DD}
+		{3CEB23CB-0718-4E18-9F71-0CFDBB003200} = {0BFA391C-E540-4C42-8BC5-54304E532F8C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E73CAE6B-08A2-4C8C-AE8B-A5199F1E29AB}
+	EndGlobalSection
+EndGlobal

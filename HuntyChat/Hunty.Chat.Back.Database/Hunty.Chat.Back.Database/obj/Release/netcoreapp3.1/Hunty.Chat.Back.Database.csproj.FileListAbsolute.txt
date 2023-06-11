@@ -1,0 +1,13 @@
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Database.deps.json
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Database.runtimeconfig.json
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Database.runtimeconfig.dev.json
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Database.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Database.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.csproj.AssemblyReference.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.GeneratedMSBuildEditorConfig.editorconfig
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.AssemblyInfoInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.AssemblyInfo.cs
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.csproj.CoreCompileInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Database\Hunty.Chat.Back.Database\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Database.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+﻿td{
+    padding: .5em;
+}
+
+.td-first {
+    padding-right: 100px
+}
+
+.div-table {
+    text-align: -webkit-center;
+}
+
+.txt-area {
+    width: 50%;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lbl-table{
+    text-align: center;
+}
+
+.tr-header-table {
+    border-bottom: 1px solid #000;
+}

@@ -1,0 +1,23 @@
+﻿
+nav a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+nav li {
+    display: inline-block;
+    width: 12%;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+    nav li:hover {
+        background-color: #fff;
+        color: #000;
+    }
+
+nav ul {
+    border-bottom: 0.5px solid black;
+}

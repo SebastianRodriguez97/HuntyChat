@@ -1,0 +1,15 @@
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.csproj.AssemblyReference.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.AssemblyInfoInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.AssemblyInfo.cs
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.csproj.CoreCompileInputs.cache
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Application.deps.json
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Application.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Application.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Database.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\bin\Release\netcoreapp3.1\Hunty.Chat.Transverse.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\bin\Release\netcoreapp3.1\Hunty.Chat.Back.Database.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\bin\Release\netcoreapp3.1\Hunty.Chat.Transverse.pdb
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.csproj.CopyComplete
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.dll
+I:\GIT\Hunty\HuntyChat\Hunty.Chat.Back.Application\Hunty.Chat.Back.Application\obj\Release\netcoreapp3.1\Hunty.Chat.Back.Application.pdb
